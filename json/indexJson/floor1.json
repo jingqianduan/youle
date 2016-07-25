@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "title" :"野生山核桃 常吃补脑"
+        },
+        {
+            "休闲食品" : "#",
+            "冲饮谷物" : "#",
+            "粮油生鲜" : "#",
+            "美味尝鲜" : "#",
+            "饮料饮品" : "#",
+            "坚果"     : "#"
+        }
+    ],
+    {
+        "href"  :"#",
+        "class" :"leftTitle",
+        "src"   :"images/imagesIndex/f1.jpg"
+    },
+    [
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/s25t-1.jpg"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/s25t-2.jpg"
+        }
+    ],
+    [
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f15-1.jpg",
+            "text"  :"王巢500克洋槐蜂蜜+500克枸杞蜂蜜+500克茶花蜂蜜组合装",
+            "price" :"￥50.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f15-2.jpg",
+            "text"  :"东佳  原谷糯米  5公斤*1",
+            "price" :"￥50.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f15-3.jpg",
+            "text"  :"【陕西特产】黄灵苹果 12粒简装礼盒 约5斤",
+            "price" :"￥59.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f15-4.jpg",
+            "text"  :"将军寨纯正菜籽油  5L",
+            "price" :"￥62.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f15-5.jpg",
+            "text"  :"水清清 珍珠米  5kg透明袋包装",
+            "price" :"￥50.00"
+        }
+    ],
+    [
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f13-1.jpg",
+            "text"  :"果果绿凤凰古城特产沙田蜜柚白柚冰糖柚子新鲜水果7-8个15斤装",
+            "sale"  :"￥60.00",
+            "price" :"￥120.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f13-2.jpg",
+            "text"  :"巴根草牌林间散养土鸡蛋   60枚泡沫装",
+            "sale"  :"￥65.00",
+            "price" :"￥100.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f13-3.jpg",
+            "text"  :"吾悦 东北黑木耳 特级黄松甸木耳 野生秋木耳干货 510克",
+            "sale"  :"￥61.00",
+            "price" :"￥110.00"
+        }
+    ]
+]

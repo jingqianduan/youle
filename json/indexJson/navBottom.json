@@ -1,0 +1,66 @@
+[
+    {
+        "text"  :"【川红】正山小种红茶 武夷山",
+        "img"   :"images/imagesIndex/8-1.jpg",
+        "href"  :"#",
+        "sale"  :"9.90",
+        "price" :"39.00",
+        "dot"   :"2.5"
+    },
+    {
+        "text"  :"维达卷纸空心卷纸10卷装",
+        "img"   :"images/imagesIndex/8-2.jpg",
+        "href"  :"#",
+        "sale"  :"29.90",
+        "price" :"50.00",
+        "dot"   :"4.6"
+    },    
+    {
+        "text"  :"篮球鞋男士低帮耐磨男鞋休闲 ",
+        "img"   :"images/imagesIndex/8-3.jpg",
+        "href"  :"#",
+        "sale"  :"99.00",
+        "price" :"258.00",
+        "dot"   :"3.8"
+    },    
+    {
+        "text"  :"Mition/美承 干衣机 01MA",
+        "img"   :"images/imagesIndex/8-4.jpg",
+        "href"  :"#",
+        "sale"  :"199.00",
+        "price" :"599.00",
+        "dot"   :"3.3"
+    },    
+    {
+        "text"  :"MG水润补水面膜5片装",
+        "img"   :"images/imagesIndex/8-5.jpg",
+        "href"  :"#",
+        "sale"  :"19.90",
+        "price" :"39.00",
+        "dot"   :"5.0"
+    },    
+    {
+        "text"  :"merries宝贝纸尿裤4袋42片装",
+        "img"   :"images/imagesIndex/8-6.jpg",
+        "href"  :"#",
+        "sale"  :"79.90",
+        "price" :"99.00",
+        "dot"   :"7.5"
+    },    
+    {
+        "text"  :"新款耐克女款秋季跑鞋",
+        "img"   :"images/imagesIndex/8-7.jpg",
+        "href"  :"#",
+        "sale"  :"475.00",
+        "price" :"499.00",
+        "dot"   :"2.5"
+    },    
+    {
+        "text"  :"2014秋冬新款潮流长袖",
+        "img"   :"images/imagesIndex/8-8.jpg",
+        "href"  :"#",
+        "sale"  :"99.00",
+        "price" :"158.00",
+        "dot"   :"6.2"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "title" :"办公室必备零食大全，让你开心每一天"
+        },
+        {
+            "粮油生鲜"  : "#",
+            "休闲食品"  : "#",
+            "营养滋补"  : "#",
+            "热销名酒"  : "#",
+            "燕窝"  : "#",
+            "食用油"  : "#"
+        }
+    ],
+    {
+        "href"  :"#",
+        "class" :"leftTitle",
+        "src"   :"images/imagesIndex/f11.jpg"
+    },
+    [
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f114-1.jpg",
+            "text"  :"五粮液股份公司 1995专卖店酒 52度 50ml 5瓶套装 浓香型 白酒",
+            "sale"  :"￥99.00",
+            "price" :"￥248.00"
+        },          
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f114-2.jpg",
+            "text"  :"【11/18手机下单立减7元】熊猫伯伯周至猕猴桃 新鲜水果 奇异果礼盒装5斤",
+            "sale"  :"￥39.90",
+            "price" :"￥149.00"
+        },          
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f114-3.jpg",
+            "text"  :"熊猫伯伯 新疆六星和田枣 红枣 大枣 500g/袋",
+            "sale"  :"￥29.90",
+            "price" :"￥101.00"
+        },          
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f114-4.jpg",
+            "text"  :"东北 稻花香  三星糙米 2袋*2斤   共4斤健康米 非转基因",
+            "sale"  :"￥26.00",
+            "price" :"￥80.00"
+        }        
+       
+    ],
+    [
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f112-1.jpg",
+            "text"  :"汤臣倍健 维生素A维生素D软胶囊儿童型(1-7岁儿童)",
+            "sale"  :"￥49.00",
+            "price" :"￥98.00"
+        },           
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f112-2.jpg",
+            "text"  :"“臣倍健 乳矿物盐压片糖果(3岁以上青少年)",
+            "sale"  :"￥49.00",
+            "price" :"￥98.00"
+        }        
+     
+    ]
+]

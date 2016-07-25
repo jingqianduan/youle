@@ -1,0 +1,44 @@
+[
+    {
+        "alt"   :"游乐金融财神",
+        "href"  :"#",
+        "src"   :"images/imagesIndex/banner1.jpg",
+        "color" :"#b52228"
+    },
+    {
+        "alt"   :"低价进行到底",
+        "href"  :"#",
+        "src"   :"images/imagesIndex/banner2.jpg",
+        "color" :"#1975be"
+    },    
+    {
+        "alt"   :"吃心绝对",
+        "href"  :"#",
+        "src"   :"images/imagesIndex/banner3.jpg",
+        "color" :"#ff901a"
+    },    
+    {
+        "alt"   :"深秋保暖",
+        "href"  :"#",
+        "src"   :"images/imagesIndex/banner4.jpg",
+        "color" :"#efeef3"
+    },    
+    {
+        "alt"   :"游乐金融8毛",
+        "href"  :"#",
+        "src"   :"images/imagesIndex/banner5.jpg",
+        "color" :"#bc2a2d"
+    },    
+    {
+        "alt"   :"南瓜",
+        "href"  :"#",
+        "src"   :"images/imagesIndex/banner6.jpg",
+        "color" :"#070302"
+    },    
+    {
+        "alt"   :"疯抢中",
+        "href"  :"#",
+        "src"   :"images/imagesIndex/banner7.jpg",
+        "color" :"#3160f4"
+    }
+]

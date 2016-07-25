@@ -1,0 +1,124 @@
+[
+    [
+        {
+            "title" :"电吹风专场 大风量发热均匀"
+        },
+        {
+            "滚筒洗衣机": "#",
+            "空净/水净" : "#",
+            "个户健康"  : "#",
+            "生活电器"  : "#",
+            "厨房电器"  : "#",
+            "4K电视"    : "#"
+        }
+    ],
+    {
+        "href"  :"#",
+        "class" :"leftTitle",
+        "src"   :"images/imagesIndex/f3.jpg"
+    },
+    [
+        {
+            "title" :"ACA 北美电器",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-1.jpg",
+            "sale"  :"￥388.00",
+            "price" :"￥888.00",
+            "text"  :"ACA 北美电器 全自动彩钢家用 面包机 一机多用 多色可选"
+        },        
+        {
+            "title" :"TONZE/天际",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-2.jpg",
+            "sale"  :"￥298.00",
+            "price" :"￥998.00",
+            "text"  :"TONZE/天际 DGD40-40DWG 隔水电炖锅盅 煲汤锅 白瓷 一锅五胆 4升容量 蒸炖同步"
+        },        
+        {
+            "title" :"小熊 酸奶米酒机",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-3.jpg",
+            "sale"  :"￥199.00",
+            "price" :"￥499.00",
+            "text"  :"小熊 酸奶米酒机<br />SNJ-5311"
+        },        
+        {
+            "title" :"小田空气加湿器",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-4.jpg",
+            "sale"  :"￥469.00",
+            "price" :"￥1569.00",
+            "text"  :"小田空气加湿器 3M滤芯净化 超静音 家用香薰 办公空调3329CH"
+        }        
+    ],
+    [
+        {
+            "title" :"艾美特电暖器HC18005",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-5.jpg",
+            "sale"  :"￥279.00",
+            "price" :"￥748.00",
+            "text"  :"艾美特电暖器HC18005欧式快热炉取暖器电暖气防水节能加湿电暖气"
+        },        
+        {
+            "title" :"Mimir/美妙 电子称",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-6.jpg",
+            "sale"  :"￥49.00",
+            "price" :"￥175.00",
+            "text"  :"Mimir/美妙 电子称 D-7 体重秤 精准电子秤 家用人体秤 健康秤 体重计秤"
+        },        
+        {
+            "title" :"飞利浦RQ311",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-7.jpg",
+            "sale"  :"￥195.00",
+            "price" :"￥389.00",
+            "text"  :"飞利浦RQ311 电动剃须刀 全身水洗 进口双刀头"
+        },        
+        {
+            "title" :"家用除衣物去毛球修剪器",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f38-8.jpg",
+            "sale"  :"￥189.00",
+            "price" :"￥249.00",
+            "text"  :"Philips飞利浦 充电式 家用除衣物去毛球修剪器GC028 【正品全国联保】"
+        }        
+    ],
+    [
+        {
+            "title" :"热销榜单"
+        },
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f35-1.jpg",
+            "text"  :"OMRON欧姆龙 臂式电子血压计 HEM-8021",
+            "price" :"￥158.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f35-2.jpg",
+            "text"  :"OMRON欧姆龙 电子体温计 MC-141W",
+            "price" :"￥78.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f35-3.jpg",
+            "text"  :"OMRON欧姆龙 声波式电动牙刷 HT-B201",
+            "price" :"￥135.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f35-4.jpg",
+            "text"  :"OMRON欧姆龙 身体脂肪测量器 HBF-306",
+            "price" :"￥188.00"
+        },        
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f35-5.jpg",
+            "text"  :"Gillette吉列锋速3动力刀片（4刀头）",
+            "price" :"￥75.00"
+        }        
+        
+    ]
+]

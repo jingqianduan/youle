@@ -1,0 +1,46 @@
+
+								/*深红 主导航*/
+.navBg{width: 100%; height: 40px;border-top: solid 1px #7a090b; background: #a71b1b;}
+	.navBg ul{width: 1200px;line-height: 40px; margin: 0 auto;}
+	.navBg li{float: left; width: 100px;}
+	.navBg .hot{position: relative;}
+	.navBg .hot img{position: absolute; left: 60px;top:-13px;}
+	.navBg li a{ font-family:microsoft yahei;}
+	.navBg li:hover{background: #6c0709; }
+	.navBg li:hover span{background: url(../images/imagesIndex/headnav_arrow.png) -2px -15px;}
+	.navBg .last1{position: relative;}
+	.navBg .card{background: #FFF; width: 1200px;height: 180px; position: absolute; z-index: 15; left:-800px; display: none;}
+	.navBg .card li{width: 340px;height: 130px;margin: 25px 30px;text-align:left; }
+	.navBg .card li a h6,.navBg ul .last1 .card li a p{text-align:left; margin-left: 140px; line-height: 20px;}
+	.navBg .card li a h6{font-size: 16px; margin-top: 20px;}
+	.navBg .card li:hover h6{color: #f11a3c;}
+	.navBg .phone li:hover h6{color: #f11a3c;}
+	.navBg .card li a p{color: #999; margin-top: 5px;}
+	.navBg .card li:hover p{color: #333;}
+	.navBg .last1 li,.navBg .last1 li:hover {background-color: #fff;}
+	.navBg .last1 img,.navBg .last2 img {float: left;}
+
+	.navBg .last2{position: relative;}
+	.navBg .last2 .phone{background: #FFF; width: 1200px;height: 180px; position: absolute; z-index: 15; left:-900px; display: none;}
+	.navBg .last2 .phone li{width: 340px;height: 130px;margin: 25px 30px;text-align:left; }
+	.last2 .phone li a h6,.navBg ul .last2 .phone li a p{text-align:left; margin-left: 140px; line-height: 20px;}
+	.last2 .phone li a h6{font-size: 16px; margin-top: 20px;}
+
+	.navBg .last2 .phone li a p{color: #999; margin-top: 5px;}
+	.navBg .last2 .phone li:hover p{color: #333;}
+	.navBg .last2 .phone li:hover {background-color: #FFF;}
+
+	.navBg .last1:hover{background: #FFF;}
+	.navBg .last2:hover{background: #FFF;}
+	.navBg .last1:hover a{color: #7a090b;}
+	.navBg .last2:hover a{color: #7a090b;}
+	.navBg li:hover a{ color: #fcdd0d;}
+	.navBg li a{font-size: 14px; line-height: 37px; color: #FFF;}
+	.navBg li span{background: url(../images/imagesIndex/headnav_arrow.png) -2px -4px; width: 7px;height: 5px; display:inline-block;position: absolute; left: 82px;top:17px;}
+
+
+    
+  
+
+
+

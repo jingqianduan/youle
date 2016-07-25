@@ -1,0 +1,25 @@
+[
+    {
+        "href"  :"#",
+        "text"  :"兑奖卡券",
+        "class" :"card"
+    },
+    {
+        "title" :"邮乐网",
+        "href"  :"#",
+        "text"  :"专业一站式B2C手机购物软件，海量<br />商品，覆盖城乡，专享优惠，一手掌<br/>握，100%正品承诺。。",
+        "img"   :"images/imagesIndex/dc1.jpg"
+    },    
+    {
+        "title" :"邮乐卡",
+        "href"  :"#",
+        "text"  :"移动生活，你是专家！ <br />充值缴费面面俱到，做全能大管家 <br />机票酒店天马行空，做任性旅行家 <br />网购淘货一手掌握，做品质生活家",
+        "img"   :"images/imagesIndex/dc2.jpg"
+    },    
+    {
+        "title" :"优惠券",
+        "href"  :"#",
+        "text"  :"让借钱从此变得简单、方便、不伤感<br />情！ 免面签，免指纹，手机点几下，<br />躺着就把钱借了！分期12个月，还款无压力。",
+        "img"   :"images/imagesIndex/dc3.jpg"
+    }
+]

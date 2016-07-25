@@ -1,0 +1,67 @@
+[
+    [
+        {
+            "title" :"护颈枕 颈椎舒适 睡眠无忧"
+        },
+        {
+            "秋冬床品"  : "#",
+            "毛巾"  : "#",
+            "棉拖鞋"  : "#",
+            "雨伞"  : "#",
+            "保温杯"  : "#",
+            "家装建材"  : "#"
+        }
+    ],
+    {
+        "href"  :"#",
+        "class" :"leftTitle",
+        "src"   :"images/imagesIndex/f9.jpg"
+    },
+    [
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f94-1.jpg",
+            "text"  :"2015新品 迪士尼 米奇缤纷乐园真空保温杯 DSM-BE006 300ml",
+            "sale"  :"￥45.00",
+            "price" :"￥96.00"
+        },          
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f94-2.jpg",
+            "text"  :"逸轩 家纺雅韵提花四件套",
+            "sale"  :"￥99.00",
+            "price" :"￥399.00"
+        },          
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f94-3.jpg",
+            "text"  :"心相印 RDT200抽纸 2层抽取式面巾纸 200抽*18包",
+            "sale"  :"￥48.00",
+            "price" :"￥99.00"
+        },          
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f94-4.jpg",
+            "text"  :"瀚庭-精品磨毛舒肤被-蓝色爱情海200*230",
+            "sale"  :"￥99.00",
+            "price" :"￥668.00"
+        }        
+    ],
+    [
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f92-1.jpg",
+            "text"  :"乐享 碗套装 景德镇陶瓷器餐具56头骨瓷餐具套装",
+            "sale"  :"￥399.00",
+            "price" :"￥1798.00"
+        },           
+        {
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f92-2.jpg",
+            "text"  :"“苏泊尔”儿童水杯贝乐儿童保温壶KC50G1不锈钢保温杯运动水壶500ML 卡通杯子儿童专用",
+            "sale"  :"￥97.00",
+            "price" :"￥299.00"
+        }        
+     
+    ]
+]

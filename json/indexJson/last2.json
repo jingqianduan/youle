@@ -1,0 +1,25 @@
+[
+    {
+        "href"  :"#",
+        "text"  :"手机邮乐",
+        "class" :"phone"
+    },
+    {
+        "title" :"兑换礼品",
+        "href"  :"#",
+        "text"  :"专为端午卡、手拉手奖品、奶粉卡等<br />设立的专供兑换的频道。在这里兑换<br />的商品总会有一款是您的喜爱。",
+        "img"   :"images/imagesIndex/mb1.jpg"
+    },    
+    {
+        "title" :"邮乐卡",
+        "href"  :"#",
+        "text"  :"邮乐网专属购物卡，一卡通用完全打<br />破域地域限制。是节日礼品，商务馈<br />赠，企业福利的最好选择。",
+        "img"   :"images/imagesIndex/mb2.jpg"
+    },    
+    {
+        "title" :"优惠券",
+        "href"  :"#",
+        "text"  :"目前只针对邮乐配送的EMS包裹用户<br />进行优惠券发放。购物后仍能获得优<br />惠，让您的购物体验更加省心省力。。",
+        "img"   :"images/imagesIndex/mb3.jpg"
+    }
+]

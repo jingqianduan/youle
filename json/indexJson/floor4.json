@@ -1,0 +1,124 @@
+[
+    [
+        {
+            "title" :"热销润体乳 24小时滋润身体"
+        },
+        {
+            "热销面膜"  : "#",
+            "牙膏牙刷"  : "#",
+            "洗发护发"  : "#",
+            "香水彩妆"  : "#",
+            "男士精品"  : "#",
+            "清洁用品"   : "#"
+        }
+    ],
+    {
+        "href"  :"#",
+        "class" :"leftTitle",
+        "src"   :"images/imagesIndex/f4.jpg"
+    },
+    [
+        {
+            "class" :" ",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f47-1.jpg"
+        },        
+        {
+            "class" :"l348",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f47-2.jpg"
+        },        
+        {
+            "class" :"l534",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f47-3.jpg"
+        }        
+    ],
+    [
+        {
+            "title" :"金致臻颜奢养紧妍洁面乳",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f47-4.jpg",
+            "sale"  :"￥157.00",
+            "price" :"￥180.00",
+            "text"  :"欧莱雅女士护肤化妆品 金致臻颜奢养紧妍洁面乳 洗面奶"
+        },        
+        {
+            "title" :"韩束墨菊深度补水露",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f47-5.jpg",
+            "sale"  :"￥109.00",
+            "price" :"￥199.00",
+            "text"  :"韩束墨菊深度补水露120ml爽肤水柔肤水冬季补水保湿控油护肤化妆品女"
+        },        
+        {
+            "title" :"清扬男士运动薄荷",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f47-6.jpg",
+            "sale"  :"￥50.00",
+            "price" :"￥60.00",
+            "text"  :"清扬男士运动薄荷电子商务礼盒 限量版"
+        },        
+        {
+            "title" :"AFU阿芙甜杏仁油100ml",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f47-7.jpg",
+            "sale"  :"￥149.00",
+            "price" :"￥188.00",
+            "text"  :"AFU阿芙甜杏仁油100ml 柔润肌肤 保湿滋润 基础油 婴儿身体按摩油"
+        }        
+    ],
+    [
+        [
+            {
+                "title" :"资生堂",
+                "text"  :"可悠然美肌沐浴",
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f43-1.jpg",
+                "class" :" "
+            },            
+            {
+                "title" :"索芙特",
+                "text"  :"实惠三件套装",
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f43-2.jpg",
+                "class" :"middle"
+            },            
+            {
+                "title" :"沙宣",
+                "text"  :"专业的护理洗发水",
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f43-3.jpg",
+                "class" :" "
+            }
+        ],
+        [
+            {
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f46-1.jpg",
+                "text"  :"兰芝",
+                "href2"  :"#",
+                "src2"   :"images/imagesIndex/f46-2.jpg",
+                "text2"  :"曼秀雷敦"
+            },            
+            {
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f46-3.jpg",
+                "text"  :"阿芙",
+                "href2"  :"#",
+                "src2"   :"images/imagesIndex/f46-4.jpg",
+                "text2"  :"美宝莲"
+            },            
+            {
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f46-5.jpg",
+                "text"  :"欧莱雅",
+                "href2"  :"#",
+                "src2"   :"images/imagesIndex/f46-6.jpg",
+                "text2"  :"倍力乐"
+            }
+
+        ]     
+        
+    ]
+]

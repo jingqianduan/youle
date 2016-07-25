@@ -1,0 +1,127 @@
+[
+    [
+        {
+            "title" :"男士春季睡衣 舒适无比"
+        },
+        {
+            "内衣"  : "#",
+            "长袖T恤"  : "#",
+            "衬衫"  : "#",
+            "男装夹克"  : "#",
+            "长袖"  : "#",
+            "牛仔裤"   : "#"
+        }
+    ],
+    {
+        "href"  :"#",
+        "class" :"leftTitle",
+        "src"   :"images/imagesIndex/f6.jpg"
+    },
+    [
+        {
+            "class" :" ",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f67-1.jpg"
+        },        
+        {
+            "class" :"l348",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f67-2.jpg"
+        },        
+        {
+            "class" :"l534",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f67-3.jpg"
+        }        
+    ],
+    [
+        {
+            "title" :"莱斯玛特 新款轻薄羽绒服",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f67-4.jpg",
+            "sale"  :"￥168.00",
+            "price" :"￥298.00",
+            "text"  :"莱斯玛特 新款轻薄羽绒服男 潮立领修身便携羽绒服男装90%白鸭绒 EW14135"
+        },        
+        {
+            "title" :"2014秋冬新款潮流长袖",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f67-5.jpg",
+            "sale"  :"￥99.00",
+            "price" :"￥158.00",
+            "text"  :"欧榜 ATOPI 2014秋冬新款潮流长袖套头v领男毛衣 针织衫AMF006"
+        },        
+        {
+            "title" :"碧竹 白领商务袜",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f67-6.jpg",
+            "sale"  :"￥39.00",
+            "price" :"￥78.00",
+            "text"  :"【碧竹 白领商务袜 男士袜子秋季中筒纯棉袜 男人袜秋冬礼盒装男袜"
+        },        
+        {
+            "title" :"时尚休闲牛仔弹力小脚裤",
+            "href"  :"#",
+            "src"   :"images/imagesIndex/f67-7.jpg",
+            "sale"  :"￥99.00",
+            "price" :"￥258.00",
+            "text"  :"ATOPI 2014 新款 时尚休闲牛仔弹力小脚裤男士 牛仔裤 男AMK1009"
+        }        
+    ],
+    [
+        [
+            {
+                "dt"    :"大家都在买"
+            },
+            {
+                "price" :"￥47.00",
+                "text"  :"V俞兆林方领纯棉竖条纹商务短袖衬衫YZLXCYBKM0008",
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f63-1.jpg",
+                "class" :""
+            },            
+            {
+                "price" :"￥39.20",
+                "text"  :"俞兆林青春活力彩色条纹小尖领长袖衬衫男士",
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f63-2.jpg",
+                "class" :""
+            },            
+            {
+                "price" :"￥95.20",
+                "text"  :"俞兆林 羽绒舒馨抗寒超厚保暖内衣套装男士/女士礼盒装",
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f63-3.jpg",
+                "class" :"no3"
+            }
+        ],
+        [
+            {
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f66-1.jpg",
+                "text"  :"占姆士",
+                "href2"  :"#",
+                "src2"   :"images/imagesIndex/f66-2.jpg",
+                "text2"  :"viishow"
+            },            
+            {
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f66-3.jpg",
+                "text"  :"维杰斯",
+                "href2"  :"#",
+                "src2"   :"images/imagesIndex/f66-4.jpg",
+                "text2"  :"莱斯玛特"
+            },            
+            {
+                "href"  :"#",
+                "src"   :"images/imagesIndex/f66-5.jpg",
+                "text"  :"ppz",
+                "href2"  :"#",
+                "src2"   :"images/imagesIndex/f66-6.jpg",
+                "text2"  :"七匹狼"
+            }
+
+        ]     
+        
+    ]
+]
